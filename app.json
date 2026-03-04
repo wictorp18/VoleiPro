@@ -4,12 +4,12 @@
     "slug": "VoleiPro",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/bola.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/bola.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#0f172a"
     },
     "ios": {
       "supportsTablet": true,
@@ -18,15 +18,14 @@
     "android": {
       "package": "com.wictor.voleipro",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "foregroundImage": "./assets/bola.png",
+        "backgroundColor": "#0f172a"
       }
     },
     "extra": {
       "eas": {
-        "projectId": "46c71078-478e-4297-8e3f-5d81b389a8bc"
+        "projectId": "3ff34b19-5ba3-484a-bf9c-3b78ff092130"
       }
-    },
-    "owner": "joaowictorparente26"
+    }
   }
 }
