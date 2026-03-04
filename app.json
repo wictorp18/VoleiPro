@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "VoleiPro",
-    "slug": "VoleiPro",
+    "name": "voleiapp",
+    "slug": "voleiapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/bola.png",
