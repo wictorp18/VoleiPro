@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "VoleiPro",
+    "slug": "VoleiPro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.wictor.voleipro"
+    },
+    "android": {
+      "package": "com.wictor.voleipro",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "46c71078-478e-4297-8e3f-5d81b389a8bc"
+      }
+    },
+    "owner": "joaowictorparente26"
+  }
+}
