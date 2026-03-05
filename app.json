@@ -3,6 +3,7 @@
     "name": "voleiapp",
     "slug": "voleiapp",
     "version": "1.0.0",
+    "newArchEnabled": false,
     "orientation": "portrait",
     "icon": "./assets/bola.png",
     "userInterfaceStyle": "light",
